@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Holophenotype5HT"
+  site-url: "https://sangyu.github.io/Holophenotype5HT"
+  description: "Code used in 5HT Holophenotype Paper"
+  repo-branch: main
+  repo-url: "https://github.com/sangyu/Holophenotype5HT"
