@@ -5,4 +5,7 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://sangyu.github.io',
                 'git_url': 'https://github.com/sangyu/Holophenotype5HT',
                 'lib_path': 'Holophenotype5HT'},
-  'syms': {'Holophenotype5HT.core': {'Holophenotype5HT.core.foo': ('core.html#foo', 'Holophenotype5HT/core.py')}}}
+  'syms': { 'Holophenotype5HT.core': {},
+            'Holophenotype5HT.preprocessing': { 'Holophenotype5HT.preprocessing.preprocessData': ( '00_Preprocessing/behavior '
+                                                                                                   'preprocessing.html#preprocessdata',
+                                                                                                   'Holophenotype5HT/preprocessing.py')}}}
