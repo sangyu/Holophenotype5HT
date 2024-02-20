@@ -7,6 +7,8 @@ __all__ = ['preprocessData']
 from esploco import esploco
 from espresso import espresso
 import os
+import pickle
+import pandas as pd
 
 def preprocessData(input_path, output_path):
     for i in os.listdir(input_path):
