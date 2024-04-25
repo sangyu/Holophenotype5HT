@@ -20,7 +20,7 @@ def preprocessData(input_path, output_path):
             ele = esploco.esploco(datapath, 0, 120, companionEspObj = e)
             ele.calculatePeriFeedSpeed(
                 e,
-                monitorWindow=120,
+                monitorWindow=120,maxDuration_s = 100,  maxFeedSpeed_nl_s = 15,
                 startSeconds=0,plotContrast=False)
             with open(output_path + i + '_ele.pickle', 'wb') as f:
                 # Pickle the 'data' dictionary using the highest protocol available.
