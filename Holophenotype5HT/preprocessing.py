@@ -14,6 +14,7 @@ def preprocessData(input_path, output_path):
     for i in os.listdir(input_path):
         os.listdir(input_path)
         if i != '.DS_Store':
+        # if i == 'Dilp2CsCh':
             datapath = input_path + '/' + i
             print(datapath)
             e = espresso(datapath, expt_duration_minutes=120)
@@ -22,6 +23,10 @@ def preprocessData(input_path, output_path):
                 e,
                 monitorWindow=120,maxDuration_s = 100,  maxFeedSpeed_nl_s = 15,
                 startSeconds=0,plotContrast=False)
+            ele.calculateFallEvents()
+            ele.feedsRevisedDf['Starved hrs'] = ele.feedsRevisedDf['Starved hrs'].dropna().astype('str')
+            ele.feedsRevisedDf['Starvedhrs'] = ele.feedsRevisedDf['Starved hrs'].astype('str')
+            print(ele.feedsRevisedDf.columns)
             with open(output_path + i + '_ele.pickle', 'wb') as f:
                 # Pickle the 'data' dictionary using the highest protocol available.
                 pickle.dump(ele, f, pickle.HIGHEST_PROTOCOL)
@@ -29,7 +34,6 @@ def preprocessData(input_path, output_path):
             with open(output_path + i + '_e.pickle', 'wb') as f:
             # Pickle the 'data' dictionary using the highest protocol available.
                 pickle.dump(e, f, pickle.HIGHEST_PROTOCOL)
-            ele.calculateFallEvents()
             data = ele.resultsDf[['Temperature', 'Genotype', 'Status', 'ID', 'Starvedhrs', 'MealSizePerFly_µL',
            'AverageFeedSpeedPerFly_µl/s', 'MeanSpeed120sBeforeFeed_mm/s',
            'MeanSpeedDuringFeed_mm/s', 'MeanSpeed120sAfterFeed_mm/s',
