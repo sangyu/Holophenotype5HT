@@ -14,7 +14,7 @@ def preprocessData(input_path, output_path):
     for i in os.listdir(input_path):
         os.listdir(input_path)
         if i != '.DS_Store':
-        # if i == 'Dilp2CsCh':
+        # if i == 'R50NoFood':
             datapath = input_path + '/' + i
             print(datapath)
             e = espresso(datapath, expt_duration_minutes=120)
@@ -64,8 +64,9 @@ def preprocessData(input_path, output_path):
                                  'feedLogDate':'date' , 'Temperature': 'Light'}
     
             data = data.rename(columns = renamecolumns)
+            data = data.sort_values(by = 'Status').sort_values(by = 'Light')
             data = data.drop(data.loc[data['Genotype']== 'Empty'].index, axis = 0)
-
+            data['Starvation'] = data['Starvation'].astype(str)
             # data = data.drop(data.loc[np.isnan(data['Starvation'])].index, axis = 0)
             print(len(data))
             data.to_csv(output_path+ '/' + i + '_ele.csv', index = False)
