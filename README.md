@@ -6,3 +6,5 @@ Code used in "Concurrent tracking of feeding and locomotion unveils serotonergic
 ## How to use
 
 [Jupyter notebooks](https://github.com/sangyu/Holophenotype5HT/tree/main/nbs/01_Figures) that generate figure panels which roughly follow the order of appearance in the manuscript in this location 
+
+[Figures20250212](https://github.com/sangyu/Holophenotype5HT/tree/main/nbs/01_Figures/Figures20250212) contains figure panels and assembled svgs.
