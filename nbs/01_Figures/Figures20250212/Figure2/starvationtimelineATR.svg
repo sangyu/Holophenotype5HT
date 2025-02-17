@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   x="0"
+   y="0"
+   width="380"
+   height="180"
+   viewBox="0 0 380 180"
+   id="svg29"
+   sodipodi:docname="starvationtimelineATR.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs29" />
+  <sodipodi:namedview
+     id="namedview29"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.2624554"
+     inkscape:cx="183.42903"
+     inkscape:cy="161.32915"
+     inkscape:window-width="1920"
+     inkscape:window-height="1027"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <g
+     id="Layer_1">
+    <g
+       id="path10"
+       opacity="0.2"
+       transform="translate(32)">
+      <path
+         d="M 295.523,78.225 H 43.684 V 64.604 h 251.839 z"
+         fill="#a37b45"
+         id="path1" />
+      <path
+         d="M 295.523,78.225 H 43.684 V 64.604 h 251.839 z"
+         fill-opacity="0"
+         stroke="#6d6f70"
+         stroke-width="1.925"
+         stroke-opacity="0.651"
+         id="path2" />
+    </g>
+    <path
+       d="m 336.486,78.225 h -8.963 V 64.604 h 8.963 z"
+       fill-opacity="0"
+       stroke="#707172"
+       stroke-width="1.469"
+       id="path13" />
+    <g
+       id="path53"
+       transform="translate(32)">
+      <path
+         d="m 304.486,104.809 h -8.963 v -13.62 h 8.963 z"
+         fill="#e1072f"
+         id="path3" />
+      <path
+         d="m 304.486,104.809 h -8.963 v -13.62 h 8.963 z"
+         fill-opacity="0"
+         stroke="#6d6e70"
+         stroke-width="1.469"
+         id="path4" />
+    </g>
+    <g
+       id="path59"
+       transform="translate(32)" />
+    <path
+       d="M 295.832,104.809 H 75.804 v -13.62 h 220.028 z"
+       fill="#a37b45"
+       id="path48"
+       opacity="0.2" />
+    <path
+       d="M 327.852,104.809 H 294.02882 V 91.189 H 327.852 Z"
+       fill="#1b75bb"
+       id="path50"
+       opacity="0.4"
+       style="stroke-width:1.02234" />
+    <g
+       id="g11"
+       transform="translate(32)">
+      <path
+         d="m 304.486,78.225 h -8.963 V 64.604 h 8.963 z"
+         fill="#e1072f"
+         id="path9" />
+      <path
+         d="m 304.486,78.225 h -8.963 V 64.604 h 8.963 z"
+         fill-opacity="0"
+         stroke="#707172"
+         stroke-width="1.469"
+         id="path11" />
+    </g>
+    <g
+       id="g11-5"
+       transform="translate(31.2115,3.1305)">
+      <path
+         d="M 296.26842,74.452063 H 192.71285 V 62.047841 h 103.55557 z"
+         fill-opacity="0"
+         stroke="#707172"
+         stroke-width="3.41687"
+         id="path11-5"
+         style="fill:#e18207;fill-opacity:1;stroke-width:0;stroke-dasharray:none" />
+      <path
+         d="M 263.00389,101.07215 H 192.71285 V 88.667933 h 70.29104 z"
+         fill-opacity="0"
+         stroke="#707172"
+         stroke-width="3.41687"
+         id="path11-5-9"
+         style="fill:#e18207;fill-opacity:1;stroke-width:0;stroke-dasharray:none" />
+    </g>
+    <path
+       d="M 327.498,78.234 H 76.132 V 64.615 h 251.366 z"
+       fill-opacity="0"
+       stroke="#6d6e70"
+       stroke-width="1.49"
+       id="path59-9" />
+    <path
+       d="M 326.504,104.809 H 75.138 v -13.62 h 251.367 z"
+       fill-opacity="0"
+       stroke="#6d6e70"
+       stroke-width="1.49"
+       id="path59-9-8" />
+    <text
+       id="text11"
+       x="78.350998"
+       y="145.896"><tspan
+         x="48.234001"
+         y="150.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan11">Eclosure</tspan></text>
+    <text
+       id="text11-8"
+       x="40.446117"
+       y="97.954254"><tspan
+         x="10.329112"
+         y="102.45425"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan11-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter-Regular;-inkscape-font-specification:'Inter-Regular Bold';fill:#1b75bb;fill-opacity:1">Starved</tspan></text>
+    <text
+       id="text11-4"
+       x="69.756126"
+       y="73.248009"><tspan
+         x="39.639118"
+         y="77.748009"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan11-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Inter-Regular;-inkscape-font-specification:'Inter-Regular Bold';fill:#e18207;fill-opacity:1">Fed</tspan></text>
+    <text
+       id="text12"
+       x="347.98999"
+       y="147.896"><tspan
+         x="315.668"
+         y="150.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan12">Espresso</tspan></text>
+    <text
+       id="text12-9"
+       x="256.18552"
+       y="129.22612"><tspan
+         x="223.86353"
+         y="131.72612"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan12-1">ATR Food</tspan></text>
+    <g
+       id="g14"
+       transform="translate(71.615018,-26)">
+      <path
+         d="m 232.122,161.396 c 0,-9.917 0,-16.556 0,-21"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path12" />
+      <path
+         d="m 235.122,140.396 -3,-8 -3,8 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path14" />
+    </g>
+    <text
+       id="text17"
+       x="268.12201"
+       y="154.896"><tspan
+         x="226.925"
+         y="150.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan14">2%</tspan><tspan
+         x="252.408"
+         y="150.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan15">agarose</tspan><tspan
+         x="244.045"
+         y="169.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan16">in</tspan><tspan
+         x="260.60101"
+         y="169.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan17">H2O</tspan></text>
+    <g
+       id="g14-3"
+       transform="translate(26.990461,-26.242152)">
+      <path
+         d="m 232.122,145.396 v -5"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path12-9"
+         sodipodi:nodetypes="cc" />
+      <path
+         d="m 235.122,140.396 -3,-8 -3,8 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path14-0" />
+    </g>
+    <g
+       id="g18"
+       transform="translate(32,-26)">
+      <path
+         d="m 121.878,161.396 c 0,-9.917 0,-16.556 0,-21"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path17" />
+      <path
+         d="m 124.878,140.396 -3,-8 -3,8 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path18" />
+    </g>
+    <text
+       id="text18"
+       x="153.87799"
+       y="147.896"><tspan
+         x="123.702"
+         y="150.396"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan18">Fly Food</tspan></text>
+    <path
+       d="m 223.96988,105.31561 c 0,-76.592718 0,-76.592718 0,-76.592718"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="0.870829"
+       stroke-dasharray="3, 2"
+       id="path19-4" />
+    <path
+       d="m 293.491,105.31561 c 0,-76.592719 0,-76.592719 0,-76.592719"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="0.870829"
+       stroke-dasharray="3, 2"
+       id="path20" />
+    <path
+       d="m 258.94557,105.57979 c 0,-76.592714 0,-76.592714 0,-76.592714"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="0.870829"
+       stroke-dasharray="3, 2"
+       id="path20-3" />
+    <g
+       id="g22"
+       transform="translate(32,-26)">
+      <path
+         d="m 300.005,161.396 c 0,-9.917 0,-16.556 0,-21"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path21" />
+      <path
+         d="m 303.005,140.396 -3,-8 -3,8 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path22" />
+    </g>
+    <path
+       d="m 75.569,105.604 v -77"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="1"
+       stroke-dasharray="3, 2"
+       id="path23"
+       sodipodi:nodetypes="cc" />
+    <g
+       id="g25"
+       transform="translate(30,-26)">
+      <path
+         d="m 44.6,161.396 c 0,-9.917 0,-16.556 0,-21"
+         fill-opacity="0"
+         stroke="#000000"
+         stroke-width="1"
+         id="path24" />
+      <path
+         d="m 47.6,140.396 -3,-8 -3,8 z"
+         fill="#000000"
+         fill-opacity="1"
+         stroke="#000000"
+         stroke-width="1"
+         stroke-opacity="1"
+         id="path25" />
+    </g>
+    <path
+       d="m 326.505,105.31561 c 0,-76.592719 0,-76.592719 0,-76.592719"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="0.870829"
+       stroke-dasharray="3, 2"
+       id="path26" />
+    <text
+       id="text26"
+       x="58.569"
+       y="18.104"><tspan
+         x="38.120003"
+         y="22.604"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan26">Day 0</tspan></text>
+    <path
+       d="m 326.6,28.604 c -250,0 -250,0 -250,0"
+       fill-opacity="0"
+       stroke="#000000"
+       stroke-width="1"
+       id="path27" />
+    <text
+       id="text27"
+       x="259.44901"
+       y="18.604"><tspan
+         x="254.88901"
+         y="23.604"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan27">5</tspan></text>
+    <text
+       id="text27-3"
+       x="224.09338"
+       y="18.839838"><tspan
+         x="219.53337"
+         y="23.839838"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan27-9">4</tspan></text>
+    <text
+       id="text28"
+       x="294.05701"
+       y="18.604"><tspan
+         x="289.38"
+         y="23.604"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan28">6</tspan></text>
+    <text
+       id="text29"
+       x="326.10999"
+       y="18.104"><tspan
+         x="321.827"
+         y="23.104"
+         font-family="Inter-Regular"
+         font-size="15px"
+         fill="#000000"
+         id="tspan29">7</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="63.575" height="128.869" viewBox="0, 0, 63.575, 128.869">
+  <g id="Background">
+    <rect x="0" y="0" width="63.575" height="128.869" fill="#FFFFFE"/>
+  </g>
+  <defs>
+    <clipPath id="Clip_1">
+      <path d="M21.245,24.138 L25.151,24.138 L25.151,63.936 L21.245,63.936 z"/>
+    </clipPath>
+  </defs>
+  <g id="Layer_1">
+    <path d="M34.94,71.687 L41.986,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M19.675,71.687 L26.72,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25.546,61.118 L20.849,61.118" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40.812,61.118 L36.115,61.118" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41.986,121.005 L41.796,121.005 L41.443,121.005 L40.739,121.005 L40.035,121.005 L39.211,121.005 L38.624,121.005 L38.155,121.005 L38.463,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29.069,121.005 L28.526,121.005 L28.056,121.005 L27.469,121.005 L26.648,121.005 L25.944,121.005 L25.238,121.005 L24.769,121.005 L24.372,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34.94,121.005 L35.219,121.005 L34.751,121.005 L34.045,121.005 L33.34,121.005 L32.519,121.005 L31.932,121.005 L31.461,121.005 L31.418,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22.024,121.005 L24.372,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M29.069,121.005 L31.418,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M34.94,121.005 L38.463,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M22.024,121.005 L21.834,121.005 L21.481,121.005 L20.777,121.005 L20.073,121.005 L19.249,121.005 L18.545,121.005 L18.193,121.005 L18.501,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36.115,61.118 L36.115,13.821" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M25.546,61.118 L25.546,13.821" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26.531,71.569 L25.121,61.588" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M26.721,71.687 L34.941,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M36.512,61.588 L35.101,71.569" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M40.812,61.118 L40.812,13.821" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41.796,71.569 L40.504,61.588" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41.986,71.687 L49.031,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M49.032,121.005 L49.032,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M41.986,121.005 L49.031,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12.629,121.005 L18.501,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12.629,71.687 L12.629,121.005" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M12.629,71.687 L19.675,71.687" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M21.129,61.588 L19.837,71.569" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M20.849,61.118 L20.849,13.821" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M25.151,63.937 L21.245,63.937 L21.245,7.62 L25.151,7.62 z" fill="#FFFFFE"/>
+      <path d="M25.151,63.937 L21.245,63.937 L21.245,7.62 L25.151,7.62 z" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g clip-path="url(#Clip_1)" opacity="0.5">
+      <path d="M25.151,63.937 L21.245,63.937 L21.245,24.139 L25.151,24.139 z" fill="#DB3A31"/>
+    </g>
+    <path d="M25.151,63.937 L21.245,63.937 L21.245,24.139 L25.151,24.139 z" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M25.151,27.391 L21.245,27.391 L21.245,24.139 L25.151,24.139 z" fill="#1A1919"/>
+      <path d="M25.151,27.391 L21.245,27.391 L21.245,24.139 L25.151,24.139 z" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <path d="M40.416,63.937 L36.51,63.937 L36.51,7.62 L40.416,7.62 z" fill="#FFFFFE"/>
+      <path d="M40.416,63.937 L36.51,63.937 L36.51,7.62 L40.416,7.62 z" fill-opacity="0" stroke="#0B0B09" stroke-width="0.709" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <path d="M40.446,98.015 C40.446,98.015 38.919,95.523 38.919,95.523 C38.919,95.523 37.093,93.294 37.093,93.294 L34.917,91.582 L32.511,90.386 L30.755,89.892 L28.097,89.646 L25.611,89.766 L23.636,90.192 L21.584,90.943 L20.811,91.352 L20.035,91.088 L18.786,90.366 L18.406,89.994 L17.963,89.221 L17.667,88.146 L17.505,84.816 L17.56,83.383 L17.839,81.202 L18.337,79.185 L19.075,77.588 L19.889,76.428 L20.403,75.919 L21.425,75.29 L21.646,75.203 L21.544,75.164 L21.661,74.618 L22.275,73.444 L22.825,72.863 L23.703,72.319 L24.045,71.695 L23.893,71.295 L23.834,71.312 L23.842,71.524 L23.99,71.914 L24.775,73.028 L25.743,73.917 L27.462,75.077 L28.459,75.529 L28.966,75.954 L29.829,77.12 L30.39,78.271 L30.656,79.418 L30.819,80.941 L31.206,86.868 L31.747,89.396 L32.691,91.881 L34.228,94.221 L36.221,96.414 L37.743,97.738 L42.029,101.147 L43.399,102.548 L44.138,103.913 L44.257,104.852 L43.954,106.494 L43.307,108.445 L41.553,112.498 L40.706,113.989 L39.638,115.326 L39.247,115.447 L39.515,115.496 L42.473,116.611 L43.987,116.911 L43.949,116.844 L43.694,116.045 L42.759,112.547 L40.979,106.985 L40.804,106.731 L39.063,105.203 L35.81,102.646 L33.638,101.118 L31.284,99.67 L29.593,98.835 L26.988,98.036 L24.428,97.799 L22.14,98.203 L20.215,98.972 L19.252,99.59 L17.228,101.101 L16.978,101.041 L16.788,100.826 L16.586,100.129 L16.327,97.419 L16.23,95.111 L16.418,91.536 L17.336,85.117 L18.742,76.386 L18.811,76.46 L22.371,75.14 L24.266,74.813 L26.446,74.669 L27.172,74.376 L27.109,74.167 L26.57,73.79 L25.678,73.212 L24.616,72.218 L24.077,71.212 L23.774,70.048 L23.65,68.18 L23.705,67.926 L23.768,68.024 L23.834,67.829 L23.739,67.768 L23.729,67.819 L23.755,68.511 L24.026,69.948 L24.061,70.25 L23.876,70.481 L23.589,70.352 L23.327,69.637 L23.263,68.223 L23.493,66.957 L23.594,66.531 L23.663,66.351 L23.699,66.161 L23.684,66.364 L23.745,66.176 L23.823,66.15 L23.404,66.256 L23.389,66.873 L23.556,67.545 L23.638,67.822 L23.406,69.047 L23.499,69.45 L24.426,71.494 L25.573,73.366 L26.154,73.985 L26.572,74.229 L26.956,73.936 L26.984,74.014 L27.068,74.146 L27.116,74.032 L27.549,74.128 L27.544,74.131 L27.509,74.167 L27.644,74.176 L27.647,74.183 L27.728,74.257 L27.596,74.199 L27.715,74.288 L28.175,74.56 L27.653,74.316 L28.074,74.441 L27.669,73.994 L27.605,73.911 L27.933,74.075 L27.899,74.056 L27.609,73.674 L27.573,73.694 L27.189,73.699 L26.253,73.159 L24.719,71.876 L24.68,71.729 L24.882,72.08 L25.669,72.752 L27.213,73.824 L27.85,74.059 L28.696,73.869 L29.489,73.945 L29.465,74.017 L29.065,74.366 L28.339,74.473 L28.237,74.501 L28.339,74.504 L28.245,74.548" fill-opacity="0" stroke="#D5197D" stroke-width="0.5" stroke-opacity="0.48" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M18.038,71.694 L28.038,71.694" fill-opacity="0" stroke="#009D90" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+    <g>
+      <path d="M23.459,73.632 C24.106,73.553 24.682,71.955 24.746,70.06 C24.81,68.166 24.337,66.691 23.69,66.77 C23.044,66.849 22.467,68.447 22.404,70.343 C22.339,72.237 22.811,73.71 23.459,73.632 z" fill-opacity="0" stroke="#0A0B09" stroke-width="0.3"/>
+      <path d="M24.5,70.519 C25.025,70.37 25.332,69.449 25.184,68.461 C25.036,67.474 24.492,66.794 23.963,66.943 C23.439,67.091 23.132,68.011 23.279,69 C23.427,69.988 23.974,70.667 24.5,70.519" fill="#0A0B09"/>
+      <path d="M24.487,70.624 C24.983,70.471 25.273,69.5 25.132,68.454 C24.991,67.408 24.476,66.685 23.976,66.838 C23.48,66.99 23.191,67.96 23.331,69.007 C23.472,70.053 23.99,70.776 24.487,70.624 z" fill-opacity="0" stroke="#0A0B09" stroke-width="0.3"/>
+      <path d="M24.203,66.84 C24.725,66.68 25.084,66.071 25.004,65.481 C24.925,64.889 24.436,64.54 23.916,64.7 C23.395,64.859 23.035,65.468 23.116,66.058 C23.195,66.651 23.682,66.999 24.203,66.84" fill="#0A0B09"/>
+      <path d="M24.203,66.84 C24.725,66.68 25.084,66.071 25.004,65.481 C24.925,64.889 24.437,64.54 23.916,64.7 C23.395,64.859 23.035,65.468 23.116,66.058 C23.195,66.651 23.682,66.999 24.203,66.84 z" fill-opacity="0" stroke="#0A0B09" stroke-width="0.3"/>
+    </g>
+  </g>
+</svg>
